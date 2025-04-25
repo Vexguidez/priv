@@ -7,7 +7,7 @@ namespace CS2Dumper.Offsets {
         public const nint dwCSGOInput = 0x1A92F30;
         public const nint dwEntityList = 0x1A1F670;
         public const nint dwGameEntitySystem = 0x1B43EB8;
-        public const nint dwGameEntitySystem_highestEntityIndex = 0x20F0;
+        public const nint dwGameEntitySystem_gethighestEntityIndex = 0x20F0;
         public const nint dwGameRules = 0x1A840B0;
         public const nint dwGlobalVars = 0x1867DA0;
         public const nint dwGlowManager = 0x1A840D0;
