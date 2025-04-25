@@ -1266,7 +1266,7 @@ namespace CS2Dumper.Schemas {
             public const nint m_thirdPersonHeading = 0x2380; // QAngle
             public const nint m_flSlopeDropOffset = 0x2398; // float32
             public const nint m_flSlopeDropHeight = 0x23A8; // float32
-            public const nint m_vHeadConstraintOffset = 0x23B8; // Vector
+            public const nint m_vHeadraintOffset = 0x23B8; // Vector
             public const nint m_entitySpottedState = 0x23D0; // EntitySpottedState_t
             public const nint m_bIsScoped = 0x23E8; // bool
             public const nint m_bResumeZoom = 0x23E9; // bool
