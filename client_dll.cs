@@ -1252,7 +1252,7 @@ namespace CS2Dumper.Schemas {
             public const nint m_lastLandTime = 0x2294; // GameTime_t
             public const nint m_bOnGroundLastTick = 0x2298; // bool
             public const nint m_qDeathEyeAngles = 0x22B4; // QAngle
-            public const nint m_bSkipOneHeadConstraintUpdate = 0x22C0; // bool
+            public const nint m_bSkipOneHeadraintUpdate = 0x22C0; // bool
             public const nint m_bLeftHanded = 0x22C1; // bool
             public const nint m_fSwitchedHandednessTime = 0x22C4; // GameTime_t
             public const nint m_flViewmodelOffsetX = 0x22C8; // float32
